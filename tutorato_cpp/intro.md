@@ -11,7 +11,7 @@ int main() {
     return 0;
 }
 ```
-Per stampare un messaggio a video si usa l'istruzione cout, *cout << "Messaggio"*; oppure *cout << nomediunavariabile;*
+Per stampare un messaggio a video si usa l'istruzione `cout`, `cout << "Messaggio";` oppure `cout << nomediunavariabile;`
 
 **NB:** Tutto il codice va scritto dentro al main e prima del return (per ora, poi vedremo cosa può essere scritto fuori).
 
@@ -35,7 +35,7 @@ int main() {
 ```
 Ci sono quattro tipi principali di variabili: int (numeri interi), double e float (numeri decimali), char (caratteri). I caratteri vengono sempre rappresentati tra apici, come nell'esempio: 'a'.
 
-Per quanto riguarda la stampa a video, ricordo che (ad esempio) con *cout << a;* viene stampato il valore che ha la variabile a in questo punto preciso del programma.
+Per quanto riguarda la stampa a video, ricordo che (ad esempio) con `cout << a;` viene stampato il valore che ha la variabile a in questo punto preciso del programma.
 
 ## Input e output
 
@@ -54,7 +54,7 @@ int main() {
     return 0;
 }
 ```
-L'istruzione *cin >> a* legge il numero inserito da tastiera e lo salva nella variabile a.
+L'istruzione `cin >> a` legge il numero inserito da tastiera e lo salva nella variabile `a`.
 
 ## Operazioni con le variabili
 
@@ -76,7 +76,7 @@ int main() {
     return 0;
 }
 ```
-**Esercizio**: scrivere un programma che, inseriti due numeri da tastiera, calcoli e stampi somma, differenza, prodotto, quoziente e resto della divisione del primo per il secondo. Potete calcolare anche la radice: basta aggiungere la libreria *math.h* o *cmath*(quindi all'inizio mettere *#include<math.h>* o *#include<cmath>*) e usare l'operazione *sqrt()*.
+**Esercizio**: scrivere un programma che, inseriti due numeri da tastiera, calcoli e stampi somma, differenza, prodotto, quoziente e resto della divisione del primo per il secondo. Potete calcolare anche la radice: basta aggiungere la libreria *math.h* o *cmath* (quindi all'inizio mettere `#include<math.h>` o `#include<cmath>`) e usare l'operazione `sqrt()`.
 
 ## Le istruzioni if e else
 
