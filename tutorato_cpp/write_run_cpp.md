@@ -24,6 +24,7 @@ Guida generale all’installazione di un compilatore e di un editor: [guida](htt
 
 Installare g++: [guida](http://www.edparrish.net/common/macgpp.php#installg++)
 
+
 ## Editor
 
 Per scrivere il codice sorgente potete scegliere tra decine di editor, salvando il file con estensione *.cpp*:
@@ -35,3 +36,5 @@ Per scrivere il codice sorgente potete scegliere tra decine di editor, salvando 
 ![Editor war](https://imgs.xkcd.com/comics/real_programmers.png)
 
 ## IDE
+Se preferite avere un ambiente integrato di sviluppo in cui potete scrivere e compilare codice, senza andare a compilare da linea di comando, consigliamo [CodeBlock](http://www.codeblocks.org/). Per creare un nuovo file selezionate dal menù "File" la voce "New" e quindi "Empty file". Quando lo salvate ricordate di scrivere "nomefile.cpp", perchè stiamo programmando in C++. Da lì poi potrete facilmente lanciare il programma con la freccetta verde di "Run". CodeBlocks vi mette anche a disposizione una serie di strumenti per il debug e per il version control.
+
