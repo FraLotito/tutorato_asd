@@ -1,4 +1,4 @@
-## Link a siti in cui trovare esercizi
+# Link a siti in cui trovare esercizi
 
 Ovviamente il judge del laboratorio di ASD: https://judge.science.unitn.it/
 
@@ -6,7 +6,7 @@ Per iniziare, potete affrontare gli esercizi guidati del sito https://www.hacker
 
 Per altri esercizi, c'è il sito delle olimpiadi di informatica: https://training.olinfo.it/ che propone un correttore simile al judge del laboratorio.
 
-# Alcuni esercizi
+## Alcuni esercizi
 
 **Input e output (cin e cout)**
 
@@ -53,7 +53,7 @@ Usando i vettori, modificare i precedenti programmi facendo inserire il numero N
 
 5.1) Scrivere un programma che data una matrice, calcoli la somma di tutti i suoi elementi.
 
-## Esercizi consigliati del correttore delle Olimpiadi (per prendere mano col C++ e non fare esericizi banali)
+### Esercizi consigliati del correttore delle Olimpiadi (per prendere mano col C++ e non fare esericizi banali)
 
 1. [Easy1](https://training.olinfo.it/#/task/easy1/statement)
 
