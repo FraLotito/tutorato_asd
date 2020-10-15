@@ -23,7 +23,6 @@ int main()
     
 }
 ```
-Il risultato sarà così:
 ![Vector](https://i.postimg.cc/3xH1X7zn/Immagine-2020-10-15-153955.png)
 
 ## Matrici
@@ -56,7 +55,6 @@ int main()
     
 }
 ```
-Il risultato sarà così:
 ![Matrix](https://i.postimg.cc/6qJ2k6rP/Immagine-2020-10-15-154115.png)
 
 ## Stack
@@ -82,7 +80,6 @@ int main()
     }
 }
 ```
-Il risultato sarà così:
 ![Stack](https://i.postimg.cc/bJKNZ6dS/stack.png)
 
 ## Queue
@@ -108,6 +105,5 @@ int main()
     }
 }
 ```
-Il risultato sarà così:
 ![Queue](https://i.postimg.cc/NfvjYPWW/queue.png)
 
