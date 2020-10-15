@@ -26,9 +26,12 @@ Installare g++: [guida](http://www.edparrish.net/common/macgpp.php#installg++)
 
 ## Editor
 
-Per scrivere il codice sorgente potete scegliere tra decine di editor:
+Per scrivere il codice sorgente potete scegliere tra decine di editor, salvando il file con estensione *.cpp*:
 * [VSCode](https://code.visualstudio.com/)
 * [Sublime](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 * Old school: Vim, Emacs, Blocco note
 
+![Editor war](https://imgs.xkcd.com/comics/real_programmers.png)
+
+## IDE
