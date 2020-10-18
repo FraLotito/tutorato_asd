@@ -1,7 +1,13 @@
 # Sommario
 
-* asd
+* Se non sapete come fare per eseguire programmi C++, seguite questa guida: [Write Run](https://github.com/FraLotito/tutorato_asd/blob/main/tutorato_cpp/write_run_cpp.md)
 
-* asd
+* Per la sintassi di base: [Introduzione al C++](https://github.com/FraLotito/tutorato_asd/blob/main/tutorato_cpp/intro.md)
 
-* asd
+* Introduzione alle strutture dati standard: [STL](https://github.com/FraLotito/tutorato_asd/blob/main/tutorato_cpp/stl.md)
+
+* Strutturare un programma C++: [Funzioni e passaggio di parametri](https://github.com/FraLotito/tutorato_asd/blob/main/tutorato_cpp/flow.md)
+
+* Input e output da file: [IO](https://github.com/FraLotito/tutorato_asd/blob/main/tutorato_cpp/io_files.md)
+
+* [Esercizi](https://github.com/FraLotito/tutorato_asd/blob/main/tutorato_cpp/esercizi.md)
