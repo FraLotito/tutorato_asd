@@ -1,5 +1,5 @@
 # Struttura di un programma
-Spesso è utile dividere il programma in più funzioni, in modo da evitare la duplicazione codice. Ora vedremo come dichiarare e chiamare una funzione.
+Spesso è utile dividere il programma in più funzioni in modo da avere una serie di vantaggi, tra i quali la modularità del codice. Ora vedremo come dichiarare e chiamare una funzione.
 
 ## Firma
 La firma di una funzione è costituita da vari elementi:
