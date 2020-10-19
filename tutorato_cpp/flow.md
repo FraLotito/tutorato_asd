@@ -1,4 +1,4 @@
-# Flow
+# Struttura di un programma
 Spesso è utile dividere il programma in più funzioni, in modo da evitare la duplicazione codice. Ora vedremo come dichiarare e chiamare una funzione.
 
 ## Firma
