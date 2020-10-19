@@ -107,3 +107,16 @@ int main()
 ```
 ![Queue](https://i.postimg.cc/NfvjYPWW/queue.png)
 
+## Funzioni utili della Standard Library
+
+[sort](https://en.cppreference.com/w/cpp/algorithm/sort) : ordina il vettore dato in input
+
+[reverse](https://en.cppreference.com/w/cpp/algorithm/reverse) : inverte l'ordine degli elementi
+
+[min_element](https://en.cppreference.com/w/cpp/algorithm/min_element) : restituisce l'elemento minimo 
+
+[max_element](https://en.cppreference.com/w/cpp/algorithm/max_element) : restituisce l'elemento massimo
+
+[binary_search](https://en.cppreference.com/w/cpp/algorithm/binary_search) : cerca un valore in tempo O(log(n))
+
+[copy](https://en.cppreference.com/w/cpp/algorithm/copy) : crea una copia di un oggetto
