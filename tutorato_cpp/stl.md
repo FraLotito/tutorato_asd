@@ -86,7 +86,7 @@ int main()
 L'utilizzo delle code (queue) è molto simile a quello degli stack, con la differenza dell'ordine di estrazione degli elementi.
 ```cpp
 #include <iostream>
-#include <queue> //per utilizzare gli stack
+#include <queue> //per utilizzare le code
 using namespace std;
 
 int main() 
