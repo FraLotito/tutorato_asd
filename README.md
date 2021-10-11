@@ -4,15 +4,15 @@ Benvenuti al tutorato C++! Qui potete trovare delle risorse utili se avete dei d
 
 * Se non sapete come fare per eseguire programmi C++, seguite questa guida: [Write Run](https://github.com/FraLotito/tutorato_asd/write_run_cpp.md)
 
-* Per la sintassi di base: [Introduzione al C++](https://github.com/FraLotito/tutorato_asd/intro.md)
+* Per la sintassi di base: [Introduzione al C++](https://github.com/FraLotito/tutorato_asd/blob/main/intro.md)
 
-* Strutturare un programma C++: [Funzioni e passaggio di parametri](https://github.com/FraLotito/tutorato_asd/flow.md)
+* Strutturare un programma C++: [Funzioni e passaggio di parametri](https://github.com/FraLotito/tutorato_asd/blob/main/flow.md)
 
-* Input e output da file: [IO](https://github.com/FraLotito/tutorato_asd/io_files.md)
+* Input e output da file: [IO](https://github.com/FraLotito/tutorato_asd/blob/main/io_files.md)
 
-* Introduzione alle strutture dati standard: [STL](https://github.com/FraLotito/tutorato_asd/stl.md)
+* Introduzione alle strutture dati standard: [STL](https://github.com/FraLotito/tutorato_asd/blob/main/stl.md)
 
-* [Esercizi](https://github.com/FraLotito/tutorato_asd/esercizi.md)
+* [Esercizi](https://github.com/FraLotito/tutorato_asd/blob/main/esercizi.md)
 
 # Tutor
 
